@@ -9,7 +9,7 @@ elasticsearch==7.8.0
 hyperlink==19.0.0
 idna==2.9
 incremental==17.5.0
-lxml==4.5.1
+lxml==4.9.1
 mtranslate==1.6
 parsel==1.6.0
 pkg-resources==0.0.0
